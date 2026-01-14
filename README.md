@@ -7,7 +7,8 @@
 
 ## 📌 项目简介 | Introduction
 
-**vroom_integrate** 是一个针对 [VROOM](https://github.com/VROOM-Project/vroom) 路线规划引擎 API 的 **Java 封装项目**，  
+**vroom_integrate** 是一个针对 [VROOM](https://github.com/VROOM-Project/vroom/blob/master/docs/API.md)  路线规划引擎 API 的 **Java 封装项目**，  
+
 通过将 VROOM 原始 JSON 请求/响应结构封装为清晰、可维护的 Java 对象，降低集成成本，提高工程可读性和可扩展性。
 
 This project provides an **object-oriented Java wrapper** for the VROOM Routing API.  
